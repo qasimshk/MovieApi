@@ -1,0 +1,14 @@
+D:\Projects\MovieApi\MovieApi\MovieApi\bin\Debug\netcoreapp2.1\MovieApi.deps.json
+D:\Projects\MovieApi\MovieApi\MovieApi\bin\Debug\netcoreapp2.1\MovieApi.runtimeconfig.json
+D:\Projects\MovieApi\MovieApi\MovieApi\bin\Debug\netcoreapp2.1\MovieApi.runtimeconfig.dev.json
+D:\Projects\MovieApi\MovieApi\MovieApi\bin\Debug\netcoreapp2.1\MovieApi.dll
+D:\Projects\MovieApi\MovieApi\MovieApi\bin\Debug\netcoreapp2.1\MovieApi.pdb
+D:\Projects\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.csproj.CoreCompileInputs.cache
+D:\Projects\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.RazorAssemblyInfo.cache
+D:\Projects\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.RazorAssemblyInfo.cs
+D:\Projects\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.AssemblyInfoInputs.cache
+D:\Projects\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.AssemblyInfo.cs
+D:\Projects\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.RazorTargetAssemblyInfo.cache
+D:\Projects\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.dll
+D:\Projects\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.pdb
+D:\Projects\MovieApi\MovieApi\MovieApi\obj\Debug\netcoreapp2.1\MovieApi.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+D:\Projects\MovieApi\MovieApi\MovieApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\MovieApi\MovieApi\MovieApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\MovieApi\MovieApi\MovieApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\MovieApi\MovieApi\MovieApiTest\bin\Debug\netcoreapp2.1\MovieApiTest.deps.json
+D:\Projects\MovieApi\MovieApi\MovieApiTest\bin\Debug\netcoreapp2.1\MovieApiTest.runtimeconfig.json
+D:\Projects\MovieApi\MovieApi\MovieApiTest\bin\Debug\netcoreapp2.1\MovieApiTest.runtimeconfig.dev.json
+D:\Projects\MovieApi\MovieApi\MovieApiTest\bin\Debug\netcoreapp2.1\MovieApiTest.dll
+D:\Projects\MovieApi\MovieApi\MovieApiTest\bin\Debug\netcoreapp2.1\MovieApiTest.pdb
+D:\Projects\MovieApi\MovieApi\MovieApiTest\obj\Debug\netcoreapp2.1\MovieApiTest.csprojAssemblyReference.cache
+D:\Projects\MovieApi\MovieApi\MovieApiTest\obj\Debug\netcoreapp2.1\MovieApiTest.csproj.CoreCompileInputs.cache
+D:\Projects\MovieApi\MovieApi\MovieApiTest\obj\Debug\netcoreapp2.1\MovieApiTest.AssemblyInfoInputs.cache
+D:\Projects\MovieApi\MovieApi\MovieApiTest\obj\Debug\netcoreapp2.1\MovieApiTest.AssemblyInfo.cs
+D:\Projects\MovieApi\MovieApi\MovieApiTest\obj\Debug\netcoreapp2.1\MovieApiTest.dll
+D:\Projects\MovieApi\MovieApi\MovieApiTest\obj\Debug\netcoreapp2.1\MovieApiTest.pdb
+D:\Projects\MovieApi\MovieApi\MovieApiTest\bin\Debug\netcoreapp2.1\MovieApi.dll
+D:\Projects\MovieApi\MovieApi\MovieApiTest\bin\Debug\netcoreapp2.1\MovieApi.pdb
+D:\Projects\MovieApi\MovieApi\MovieApiTest\obj\Debug\netcoreapp2.1\MovieApiTest.csproj.CopyComplete
